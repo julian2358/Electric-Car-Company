@@ -1,0 +1,12 @@
+1. Explain what the terminal is in your own words.
+
+	Answer: A terminal is the command line for your computer. It provides text based access to the operating systems which in the case of Mac is UNIX.
+
+2. What is the major difference between Git and Github?
+	Answer: Git is an Open Source tool used by software developers and software development teams to manage source code.
+
+	Github is the online web based service for git repository to bring teams together. It is a platform for teams to collaborate and mark changes in source code.
+
+3. Why do we use Github?
+	
+	Answer: We use GitHub to keep track of source code, what changes have been made to it, what current issues need to be fixed, and to allow teams the environment too easily and efficiently make changes too and view source code.
